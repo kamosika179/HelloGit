@@ -4,3 +4,5 @@ branch test
 branch test 2!
 別のところから編集中～
 addはcommitのまえ～
+pull はリモートリポジトリから取り出す。更新するときにする～
+
