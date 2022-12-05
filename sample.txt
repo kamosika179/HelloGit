@@ -6,3 +6,4 @@ branch test 2!
 addはcommitのまえ～
 pull はリモートリポジトリから取り出す。更新するときにする～
 
+subtreeで変更を取ってこれるかな？
